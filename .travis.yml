@@ -1,3 +1,2 @@
 language: java
 before_install: cd GenericGMLServer
-before_script: cd GenericGMLServer
