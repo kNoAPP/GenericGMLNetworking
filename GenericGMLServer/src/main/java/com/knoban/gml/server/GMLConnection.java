@@ -3,8 +3,8 @@ package com.knoban.gml.server;
 import com.knoban.gml.requests.*;
 import com.knoban.gml.streams.GMLInputStream;
 import com.knoban.gml.streams.GMLOutputStream;
+import com.knoban.gml.utils.Pair;
 import com.knoban.gml.utils.Tools;
-import javafx.util.Pair;
 
 import java.io.EOFException;
 import java.io.IOException;
